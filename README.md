@@ -1,5 +1,3 @@
-Ecco una proposta per il README.md del tuo progetto di Crittografia e Blockchain. Come per il precedente, ho mantenuto un tono strettamente professionale e ingegneristico, eliminando le emoji e focalizzandomi sulle architetture e sui protocolli crittografici utilizzati.
-
 Applied Cryptography & Blockchain: Self-Sovereign Identity (Erasmus+)
 Descrizione del Progetto
 Questo repository contiene il documento di progettazione e l'analisi di un sistema crittografico applicato, sviluppato per il corso di "Algoritmi e Protocolli per la Sicurezza" (Laurea Magistrale in Ingegneria Informatica, Università degli Studi di Salerno, A.A. 2024/2025).
